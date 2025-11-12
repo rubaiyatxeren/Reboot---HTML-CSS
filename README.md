@@ -38,6 +38,7 @@ This project is a **clean, modern, and responsive portfolio-style landing page**
 portfolio-landing-page/
 │
 ├── index.html       # Main landing page
+├── style.css
 ├── README.md        # Project documentation
 ```
 
