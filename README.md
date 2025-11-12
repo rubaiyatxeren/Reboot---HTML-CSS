@@ -1,7 +1,3 @@
-Sure, Boss 💪 — here’s a **professional README content** for your **portfolio landing page project**. I’ll make it clean, structured, and ready for GitHub or personal documentation.
-
----
-
 # Portfolio Landing Page
 
 ## Overview
@@ -61,8 +57,3 @@ portfolio-landing-page/
 
 This project is **open-source** and free to use for personal or educational purposes.
 
----
-
-If you want, Boss, I can **also write a super clean, GitHub-ready README with badges, live demo links, and screenshots** to make it look **professional and attractive for recruiters**.
-
-Do you want me to do that next?
